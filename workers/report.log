@@ -1,0 +1,532 @@
+2026-07-20 05:02:47,394 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-20 05:03:39,812 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 02:36:29,187 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 02:57:19,427 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:02:53,431 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:03:16,084 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:04:23,952 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:25:25,952 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:26:28,369 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:33:33,727 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:34:20,256 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:36:28,410 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:36:28,412 - validador_xml - ERROR - Field 'NUMERO' not found in config
+2026-07-21 03:36:28,413 - validador_xml - ERROR - Field 'DATA_EMISSAO' not found in config
+2026-07-21 03:36:28,413 - validador_xml - ERROR - Field 'NOME' not found in config
+2026-07-21 03:36:28,413 - validador_xml - ERROR - Field 'CNPJ' not found in config
+2026-07-21 03:36:28,413 - validador_xml - ERROR - Field 'DESCRICAO' not found in config
+2026-07-21 03:36:28,413 - validador_xml - ERROR - Field 'QUANTIDADE' not found in config
+2026-07-21 03:36:28,413 - validador_xml - ERROR - Field 'VALOR_UNITARIO' not found in config
+2026-07-21 03:36:28,413 - validador_xml - ERROR - Field 'TOTAL' not found in config
+2026-07-21 03:37:45,380 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:37:45,382 - validador_xml - ERROR - Field 'NUMERO' not found in config
+2026-07-21 03:37:45,382 - validador_xml - ERROR - Field 'DATA_EMISSAO' not found in config
+2026-07-21 03:37:45,382 - validador_xml - ERROR - Field 'NOME' not found in config
+2026-07-21 03:37:45,383 - validador_xml - ERROR - Field 'CNPJ' not found in config
+2026-07-21 03:37:45,383 - validador_xml - ERROR - Field 'DESCRICAO' not found in config
+2026-07-21 03:37:45,383 - validador_xml - ERROR - Field 'QUANTIDADE' not found in config
+2026-07-21 03:37:45,383 - validador_xml - ERROR - Field 'VALOR_UNITARIO' not found in config
+2026-07-21 03:37:45,383 - validador_xml - ERROR - Field 'TOTAL' not found in config
+2026-07-21 03:38:19,591 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:38:19,593 - validador_xml - ERROR - Field 'NUMERO' not found in config
+2026-07-21 03:38:19,593 - validador_xml - ERROR - Field 'DATA_EMISSAO' not found in config
+2026-07-21 03:38:19,593 - validador_xml - ERROR - Field 'NOME' not found in config
+2026-07-21 03:38:19,593 - validador_xml - ERROR - Field 'CNPJ' not found in config
+2026-07-21 03:38:19,593 - validador_xml - ERROR - Field 'DESCRICAO' not found in config
+2026-07-21 03:38:19,593 - validador_xml - ERROR - Field 'QUANTIDADE' not found in config
+2026-07-21 03:38:19,593 - validador_xml - ERROR - Field 'VALOR_UNITARIO' not found in config
+2026-07-21 03:38:19,593 - validador_xml - ERROR - Field 'TOTAL' not found in config
+2026-07-21 03:38:36,864 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:38:36,865 - validador_xml - ERROR - Field 'NUMERO' not found in config
+2026-07-21 03:38:36,866 - validador_xml - ERROR - Field 'DATA_EMISSAO' not found in config
+2026-07-21 03:38:36,866 - validador_xml - ERROR - Field 'NOME' not found in config
+2026-07-21 03:38:36,866 - validador_xml - ERROR - Field 'CNPJ' not found in config
+2026-07-21 03:38:36,866 - validador_xml - ERROR - Field 'DESCRICAO' not found in config
+2026-07-21 03:38:36,866 - validador_xml - ERROR - Field 'QUANTIDADE' not found in config
+2026-07-21 03:38:36,866 - validador_xml - ERROR - Field 'VALOR_UNITARIO' not found in config
+2026-07-21 03:38:36,866 - validador_xml - ERROR - Field 'TOTAL' not found in config
+2026-07-21 03:39:21,133 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:39:21,135 - validador_xml - ERROR - Field 'NUMERO' not found in config
+2026-07-21 03:39:21,135 - validador_xml - ERROR - Field 'DATA_EMISSAO' not found in config
+2026-07-21 03:39:21,135 - validador_xml - ERROR - Field 'NOME' not found in config
+2026-07-21 03:39:21,135 - validador_xml - ERROR - Field 'CNPJ' not found in config
+2026-07-21 03:39:21,136 - validador_xml - ERROR - Field 'DESCRICAO' not found in config
+2026-07-21 03:39:21,136 - validador_xml - ERROR - Field 'QUANTIDADE' not found in config
+2026-07-21 03:39:21,136 - validador_xml - ERROR - Field 'VALOR_UNITARIO' not found in config
+2026-07-21 03:39:21,136 - validador_xml - ERROR - Field 'TOTAL' not found in config
+2026-07-21 03:41:45,758 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:41:45,760 - validador_xml - ERROR - Field 'NUMERO' not found in config
+2026-07-21 03:41:45,760 - validador_xml - ERROR - Field 'DATA_EMISSAO' not found in config
+2026-07-21 03:41:45,760 - validador_xml - ERROR - Field 'NOME' not found in config
+2026-07-21 03:41:45,760 - validador_xml - ERROR - Field 'CNPJ' not found in config
+2026-07-21 03:41:45,760 - validador_xml - ERROR - Field 'DESCRICAO' not found in config
+2026-07-21 03:41:45,760 - validador_xml - ERROR - Field 'QUANTIDADE' not found in config
+2026-07-21 03:41:45,760 - validador_xml - ERROR - Field 'VALOR_UNITARIO' not found in config
+2026-07-21 03:41:45,760 - validador_xml - ERROR - Field 'TOTAL' not found in config
+2026-07-21 03:50:12,011 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 03:50:12,013 - validador_xml - ERROR - Field 'NUMERO' not found in config
+2026-07-21 03:50:12,013 - validador_xml - ERROR - Field 'DATA_EMISSAO' not found in config
+2026-07-21 03:50:12,013 - validador_xml - ERROR - Field 'NOME' not found in config
+2026-07-21 03:50:12,013 - validador_xml - ERROR - Field 'CNPJ' not found in config
+2026-07-21 03:50:12,013 - validador_xml - ERROR - Field 'DESCRICAO' not found in config
+2026-07-21 03:50:12,013 - validador_xml - ERROR - Field 'QUANTIDADE' not found in config
+2026-07-21 03:50:12,013 - validador_xml - ERROR - Field 'VALOR_UNITARIO' not found in config
+2026-07-21 03:50:12,013 - validador_xml - ERROR - Field 'TOTAL' not found in config
+2026-07-21 04:10:35,052 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 04:11:16,352 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 04:11:23,950 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 04:44:00,978 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 04:44:00,980 - validador_xml - ERROR - Field 'nfe' not found in config
+2026-07-21 04:49:57,026 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 04:49:57,028 - validador_xml - ERROR - Field 'nfe' not found in config
+2026-07-21 16:51:59,114 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 16:51:59,116 - validador_xml - ERROR - Field 'nfe' not found in config
+2026-07-21 17:49:58,987 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:03:17,757 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:06:36,574 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:09:49,133 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:09:49,135 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:09:49,917 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:09:49,919 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:11:38,066 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:11:38,068 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:11:38,852 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:11:38,853 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:11:44,186 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:11:44,188 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:11:44,992 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:11:44,994 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:17:18,987 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:17:18,988 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:17:19,802 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:17:19,804 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:20:29,984 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:27:22,139 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:27:22,142 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:27:22,962 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:27:22,963 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:27:33,607 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:28:50,422 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:28:50,424 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:28:51,205 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:28:51,207 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:29:35,073 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:29:35,075 - validador_xml - ERROR - not enough values to unpack (expected 2, got 1)
+2026-07-21 18:29:35,828 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:29:35,830 - validador_xml - ERROR - not enough values to unpack (expected 2, got 1)
+2026-07-21 18:30:26,161 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:30:26,162 - validador_xml - ERROR - not enough values to unpack (expected 2, got 1)
+2026-07-21 18:30:26,942 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:30:26,944 - validador_xml - ERROR - not enough values to unpack (expected 2, got 1)
+2026-07-21 18:30:47,937 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:30:47,939 - validador_xml - ERROR - not enough values to unpack (expected 2, got 1)
+2026-07-21 18:30:48,647 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:30:48,648 - validador_xml - ERROR - not enough values to unpack (expected 2, got 1)
+2026-07-21 18:31:40,201 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:31:40,202 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:31:41,002 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:31:41,004 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:32:16,878 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:32:16,880 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:32:17,732 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:32:17,733 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:32:35,356 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:32:35,358 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:32:36,104 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:32:36,105 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:33:25,507 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:33:25,509 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:33:26,299 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:33:26,300 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:37:27,377 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:37:27,379 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:37:28,243 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:37:28,244 - validador_xml - ERROR - Campo obrigatório ausente: numero
+2026-07-21 18:37:48,089 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:37:48,091 - validador_xml - ERROR - itens deveria ser uma lista.
+2026-07-21 18:37:48,893 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:37:48,895 - validador_xml - ERROR - itens deveria ser uma lista.
+2026-07-21 18:38:40,419 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:38:41,150 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-21 18:54:26,423 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:54:53,629 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:55:22,678 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-21 18:55:23,495 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-22 03:09:34,464 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-22 03:09:35,356 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-23 03:48:49,129 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 04:22:00,563 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 04:23:26,680 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 04:23:38,826 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 04:24:21,107 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 04:25:19,578 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 13:58:13,663 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 15:15:07,089 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 15:15:14,892 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 15:16:58,407 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 15:16:58,408 - validador_xml - ERROR - Campo obrigatório ausente: serie
+2026-07-23 15:16:59,429 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-23 15:16:59,429 - validador_xml - ERROR - Campo obrigatório ausente: serie
+2026-07-23 15:20:28,811 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 15:21:53,614 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 15:23:07,268 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 15:27:31,617 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 15:27:44,942 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 15:28:47,182 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 15:31:41,355 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 15:33:27,458 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 15:33:27,460 - validador_xml - ERROR - Campo obrigatório ausente: nfe
+2026-07-23 15:33:28,550 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 15:33:28,551 - validador_xml - ERROR - Campo obrigatório ausente: nfe.serie
+2026-07-23 15:33:28,551 - validador_xml - ERROR - Campo obrigatório ausente: metadata
+2026-07-23 15:33:29,392 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-23 15:33:29,393 - validador_xml - ERROR - Campo obrigatório ausente: nfe.serie
+2026-07-23 15:33:29,393 - validador_xml - ERROR - Campo obrigatório ausente: metadata
+2026-07-23 16:17:00,827 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 16:17:00,833 - validador_xml - ERROR - Campo obrigatório ausente: nfe
+2026-07-23 16:17:01,985 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 16:17:01,986 - validador_xml - ERROR - Campo obrigatório ausente: nfe.serie
+2026-07-23 16:17:01,986 - validador_xml - ERROR - Campo obrigatório ausente: metadata
+2026-07-23 16:17:02,772 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-23 16:17:02,772 - validador_xml - ERROR - Campo obrigatório ausente: nfe.serie
+2026-07-23 16:17:02,772 - validador_xml - ERROR - Campo obrigatório ausente: metadata
+2026-07-23 16:18:38,917 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 16:23:10,940 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 16:23:10,941 - validador_xml - ERROR - Campo obrigatório ausente: nfe
+2026-07-23 16:23:12,040 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 16:23:12,041 - validador_xml - ERROR - Campo obrigatório ausente: nfe.serie
+2026-07-23 16:23:12,041 - validador_xml - ERROR - Campo obrigatório ausente: metadata
+2026-07-23 16:23:12,836 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-23 16:23:12,837 - validador_xml - ERROR - Campo obrigatório ausente: nfe.serie
+2026-07-23 16:23:12,837 - validador_xml - ERROR - Campo obrigatório ausente: metadata
+2026-07-23 16:24:57,910 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 16:25:09,732 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 16:26:11,647 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 16:26:38,020 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 16:30:04,490 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 16:30:04,491 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-23 16:30:05,571 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 16:30:26,397 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 16:30:26,397 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-23 16:30:27,492 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 16:31:03,437 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 16:31:04,480 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 16:31:04,481 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-23 16:31:05,300 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-23 16:31:05,301 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-23 17:34:54,249 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 17:34:55,585 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 17:34:55,585 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-23 17:34:56,427 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-23 17:34:56,428 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-23 17:36:22,342 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-23 17:36:23,441 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-23 17:36:23,441 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-23 17:36:24,214 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-23 17:36:24,214 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 00:29:50,353 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1090975504883-uq5drtbh7l384q63r6k8uf138urqbr3v.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A50345%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=i1hsNXGsfcgQAUHX2wKfLr7BCXCgRe&code_challenge=SPjjwbIo4JHsFW457zdBYMOacXZPVMUkGX8dPztf7lI&code_challenge_method=S256&access_type=offline&prompt=consent
+2026-07-25 00:30:11,778 - google_auth_oauthlib.flow - INFO - "GET /?state=i1hsNXGsfcgQAUHX2wKfLr7BCXCgRe&iss=https://accounts.google.com&code=4/0AXEQxIDbAWUwayfMy3Eap5HDOETy9aWP4KAa8ELB5ydDf3KxUz6qOjs6HGocHQ3dduvgPQ&scope=https://www.googleapis.com/auth/gmail.readonly HTTP/1.1" 200 65
+2026-07-25 00:30:13,867 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-25 00:30:15,026 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-25 00:30:15,026 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 00:30:15,958 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-25 00:30:15,958 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 00:42:07,763 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-25 00:42:08,924 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-25 00:42:08,925 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 00:42:09,742 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-25 00:42:09,743 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 00:42:13,053 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2026-07-25 00:42:13,053 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 00:42:13,055 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2026-07-25 00:42:13,055 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 00:42:13,056 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2026-07-25 00:42:13,056 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 00:42:13,057 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-25 00:42:13,059 - sqlalchemy.engine.Engine - INFO - INSERT INTO notas_fiscais (numero, serie, chave, data_emissao, tipo, cnpj_emitente, razao_social_emitente, cnpj_destinatario, razao_social_destinatario, valor_produtos, valor_desconto, valor_frete, valor_seguro, valor_icms, valor_ipi, valor_pis, valor_cofins, valor_total, protocolo, status, descricao_status, criado_em) VALUES (%(numero)s, %(serie)s, %(chave)s, %(data_emissao)s, %(tipo)s, %(cnpj_emitente)s, %(razao_social_emitente)s, %(cnpj_destinatario)s, %(razao_social_destinatario)s, %(valor_produtos)s, %(valor_desconto)s, %(valor_frete)s, %(valor_seguro)s, %(valor_icms)s, %(valor_ipi)s, %(valor_pis)s, %(valor_cofins)s, %(valor_total)s, %(protocolo)s, %(status)s, %(descricao_status)s, %(criado_em)s) RETURNING notas_fiscais.id
+2026-07-25 00:42:13,059 - sqlalchemy.engine.Engine - INFO - [generated in 0.00020s] {'numero': '1234', 'serie': '1', 'chave': '35260712345678000199550010000012341000012345', 'data_emissao': '2026-07-20T14:35:20-03:00', 'tipo': 1, 'cnpj_emitente': '12345678000199', 'razao_social_emitente': 'Fornecedor Exemplo LTDA', 'cnpj_destinatario': '98765432000111', 'razao_social_destinatario': 'Hamburgueria ChatGPT LTDA', 'valor_produtos': None, 'valor_desconto': None, 'valor_frete': None, 'valor_seguro': None, 'valor_icms': None, 'valor_ipi': None, 'valor_pis': None, 'valor_cofins': None, 'valor_total': '895.00', 'protocolo': '135260000123456', 'status': 100, 'descricao_status': 'Autorizado o uso da NF-e', 'criado_em': None}
+2026-07-25 00:42:13,062 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2026-07-25 00:46:19,088 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-25 00:46:20,165 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-25 00:46:20,166 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 00:46:21,301 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-25 00:46:21,302 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 00:46:24,160 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2026-07-25 00:46:24,160 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 00:46:24,162 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2026-07-25 00:46:24,162 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 00:46:24,165 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2026-07-25 00:46:24,165 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 00:46:24,167 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-25 00:46:24,169 - sqlalchemy.engine.Engine - INFO - INSERT INTO notas_fiscais (numero, serie, chave, data_emissao, tipo, cnpj_emitente, razao_social_emitente, cnpj_destinatario, razao_social_destinatario, valor_produtos, valor_desconto, valor_frete, valor_seguro, valor_icms, valor_ipi, valor_pis, valor_cofins, valor_total, protocolo, status, descricao_status, criado_em) VALUES (%(numero)s, %(serie)s, %(chave)s, %(data_emissao)s, %(tipo)s, %(cnpj_emitente)s, %(razao_social_emitente)s, %(cnpj_destinatario)s, %(razao_social_destinatario)s, %(valor_produtos)s, %(valor_desconto)s, %(valor_frete)s, %(valor_seguro)s, %(valor_icms)s, %(valor_ipi)s, %(valor_pis)s, %(valor_cofins)s, %(valor_total)s, %(protocolo)s, %(status)s, %(descricao_status)s, %(criado_em)s) RETURNING notas_fiscais.id
+2026-07-25 00:46:24,169 - sqlalchemy.engine.Engine - INFO - [generated in 0.00030s] {'numero': '1234', 'serie': '1', 'chave': '35260712345678000199550010000012341000012345', 'data_emissao': '2026-07-20T14:35:20-03:00', 'tipo': 1, 'cnpj_emitente': '12345678000199', 'razao_social_emitente': 'Fornecedor Exemplo LTDA', 'cnpj_destinatario': '98765432000111', 'razao_social_destinatario': 'Hamburgueria ChatGPT LTDA', 'valor_produtos': None, 'valor_desconto': None, 'valor_frete': None, 'valor_seguro': None, 'valor_icms': None, 'valor_ipi': None, 'valor_pis': None, 'valor_cofins': None, 'valor_total': '895.00', 'protocolo': '135260000123456', 'status': 100, 'descricao_status': 'Autorizado o uso da NF-e', 'criado_em': None}
+2026-07-25 00:46:24,171 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2026-07-25 01:00:58,874 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-25 01:01:00,018 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-25 01:01:00,018 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 01:01:00,831 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-25 01:01:00,831 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 01:01:04,094 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2026-07-25 01:01:04,094 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 01:01:04,096 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2026-07-25 01:01:04,096 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 01:01:04,097 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2026-07-25 01:01:04,097 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 01:01:04,099 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-25 01:01:04,101 - sqlalchemy.engine.Engine - INFO - INSERT INTO notas_fiscais (numero, serie, chave, data_emissao, tipo, cnpj_emitente, razao_social_emitente, cnpj_destinatario, razao_social_destinatario, valor_produtos, valor_desconto, valor_frete, valor_seguro, valor_icms, valor_ipi, valor_pis, valor_cofins, valor_total, protocolo, status, descricao_status, criado_em) VALUES (%(numero)s, %(serie)s, %(chave)s, %(data_emissao)s, %(tipo)s, %(cnpj_emitente)s, %(razao_social_emitente)s, %(cnpj_destinatario)s, %(razao_social_destinatario)s, %(valor_produtos)s, %(valor_desconto)s, %(valor_frete)s, %(valor_seguro)s, %(valor_icms)s, %(valor_ipi)s, %(valor_pis)s, %(valor_cofins)s, %(valor_total)s, %(protocolo)s, %(status)s, %(descricao_status)s, %(criado_em)s) RETURNING notas_fiscais.id
+2026-07-25 01:01:04,101 - sqlalchemy.engine.Engine - INFO - [generated in 0.00026s] {'numero': '1234', 'serie': '1', 'chave': '35260712345678000199550010000012341000012345', 'data_emissao': '2026-07-20T14:35:20-03:00', 'tipo': 1, 'cnpj_emitente': '12345678000199', 'razao_social_emitente': 'Fornecedor Exemplo LTDA', 'cnpj_destinatario': '98765432000111', 'razao_social_destinatario': 'Hamburgueria ChatGPT LTDA', 'valor_produtos': None, 'valor_desconto': None, 'valor_frete': None, 'valor_seguro': None, 'valor_icms': None, 'valor_ipi': None, 'valor_pis': None, 'valor_cofins': None, 'valor_total': '895.00', 'protocolo': '135260000123456', 'status': 100, 'descricao_status': 'Autorizado o uso da NF-e', 'criado_em': None}
+2026-07-25 01:01:04,103 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2026-07-25 02:26:36,818 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2026-07-25 02:26:36,819 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 02:26:36,821 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2026-07-25 02:26:36,821 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 02:26:36,823 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2026-07-25 02:26:36,823 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 02:26:36,824 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-25 02:26:36,826 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2026-07-25 02:26:36,826 - sqlalchemy.engine.Engine - INFO - [generated in 0.00025s] {'table_name': 'notas_fiscais', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2026-07-25 02:26:36,831 - sqlalchemy.engine.Engine - INFO - 
+CREATE TABLE notas_fiscais (
+	id SERIAL NOT NULL, 
+	numero VARCHAR(50) NOT NULL, 
+	serie VARCHAR(10) NOT NULL, 
+	chave VARCHAR(44) NOT NULL, 
+	data_emissao VARCHAR(30) NOT NULL, 
+	tipo INTEGER NOT NULL, 
+	cnpj_emitente VARCHAR(14) NOT NULL, 
+	razao_social_emitente VARCHAR(200) NOT NULL, 
+	cnpj_destinatario VARCHAR(14) NOT NULL, 
+	razao_social_destinatario VARCHAR(200) NOT NULL, 
+	valor_produtos NUMERIC(10, 2), 
+	valor_desconto NUMERIC(10, 2), 
+	valor_frete NUMERIC(10, 2), 
+	valor_seguro NUMERIC(10, 2), 
+	valor_icms NUMERIC(10, 2), 
+	valor_ipi NUMERIC(10, 2), 
+	valor_pis NUMERIC(10, 2), 
+	valor_cofins NUMERIC(10, 2), 
+	valor_total NUMERIC(10, 2) NOT NULL, 
+	protocolo VARCHAR(50) NOT NULL, 
+	status INTEGER NOT NULL, 
+	descricao_status VARCHAR(200) NOT NULL, 
+	criado_em TIMESTAMP WITHOUT TIME ZONE NOT NULL, 
+	PRIMARY KEY (id), 
+	UNIQUE (chave)
+)
+
+
+2026-07-25 02:26:36,831 - sqlalchemy.engine.Engine - INFO - [no key 0.00022s] {}
+2026-07-25 02:26:36,885 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-25 02:26:40,904 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-25 02:26:42,357 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-25 02:26:42,358 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 02:26:43,149 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-25 02:26:43,149 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 02:26:46,143 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-25 02:26:46,145 - sqlalchemy.engine.Engine - INFO - INSERT INTO notas_fiscais (numero, serie, chave, data_emissao, tipo, cnpj_emitente, razao_social_emitente, cnpj_destinatario, razao_social_destinatario, valor_produtos, valor_desconto, valor_frete, valor_seguro, valor_icms, valor_ipi, valor_pis, valor_cofins, valor_total, protocolo, status, descricao_status, criado_em) VALUES (%(numero)s, %(serie)s, %(chave)s, %(data_emissao)s, %(tipo)s, %(cnpj_emitente)s, %(razao_social_emitente)s, %(cnpj_destinatario)s, %(razao_social_destinatario)s, %(valor_produtos)s, %(valor_desconto)s, %(valor_frete)s, %(valor_seguro)s, %(valor_icms)s, %(valor_ipi)s, %(valor_pis)s, %(valor_cofins)s, %(valor_total)s, %(protocolo)s, %(status)s, %(descricao_status)s, %(criado_em)s) RETURNING notas_fiscais.id
+2026-07-25 02:26:46,145 - sqlalchemy.engine.Engine - INFO - [generated in 0.00030s] {'numero': '1234', 'serie': '1', 'chave': '35260712345678000199550010000012341000012345', 'data_emissao': '2026-07-20T14:35:20-03:00', 'tipo': 1, 'cnpj_emitente': '12345678000199', 'razao_social_emitente': 'Fornecedor Exemplo LTDA', 'cnpj_destinatario': '98765432000111', 'razao_social_destinatario': 'Hamburgueria ChatGPT LTDA', 'valor_produtos': None, 'valor_desconto': None, 'valor_frete': None, 'valor_seguro': None, 'valor_icms': None, 'valor_ipi': None, 'valor_pis': None, 'valor_cofins': None, 'valor_total': '895.00', 'protocolo': '135260000123456', 'status': 100, 'descricao_status': 'Autorizado o uso da NF-e', 'criado_em': datetime.datetime(2026, 7, 25, 5, 26, 46, 144975)}
+2026-07-25 02:26:46,156 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-25 02:30:14,950 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2026-07-25 02:30:14,951 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 02:30:14,953 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2026-07-25 02:30:14,953 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 02:30:14,955 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2026-07-25 02:30:14,955 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-25 02:30:14,957 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-25 02:30:14,961 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2026-07-25 02:30:14,961 - sqlalchemy.engine.Engine - INFO - [generated in 0.00031s] {'table_name': 'notas_fiscais', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2026-07-25 02:30:14,964 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-25 02:30:16,367 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-25 02:30:17,816 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-25 02:30:17,817 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 02:30:18,646 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-25 02:30:18,646 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-25 02:30:21,706 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-25 02:30:21,709 - sqlalchemy.engine.Engine - INFO - INSERT INTO notas_fiscais (numero, serie, chave, data_emissao, tipo, cnpj_emitente, razao_social_emitente, cnpj_destinatario, razao_social_destinatario, valor_produtos, valor_desconto, valor_frete, valor_seguro, valor_icms, valor_ipi, valor_pis, valor_cofins, valor_total, protocolo, status, descricao_status, criado_em) VALUES (%(numero)s, %(serie)s, %(chave)s, %(data_emissao)s, %(tipo)s, %(cnpj_emitente)s, %(razao_social_emitente)s, %(cnpj_destinatario)s, %(razao_social_destinatario)s, %(valor_produtos)s, %(valor_desconto)s, %(valor_frete)s, %(valor_seguro)s, %(valor_icms)s, %(valor_ipi)s, %(valor_pis)s, %(valor_cofins)s, %(valor_total)s, %(protocolo)s, %(status)s, %(descricao_status)s, %(criado_em)s) RETURNING notas_fiscais.id
+2026-07-25 02:30:21,709 - sqlalchemy.engine.Engine - INFO - [generated in 0.00044s] {'numero': '1234', 'serie': '1', 'chave': '35260712345678000199550010000012341000012345', 'data_emissao': '2026-07-20T14:35:20-03:00', 'tipo': 1, 'cnpj_emitente': '12345678000199', 'razao_social_emitente': 'Fornecedor Exemplo LTDA', 'cnpj_destinatario': '98765432000111', 'razao_social_destinatario': 'Hamburgueria ChatGPT LTDA', 'valor_produtos': None, 'valor_desconto': None, 'valor_frete': None, 'valor_seguro': None, 'valor_icms': None, 'valor_ipi': None, 'valor_pis': None, 'valor_cofins': None, 'valor_total': '895.00', 'protocolo': '135260000123456', 'status': 100, 'descricao_status': 'Autorizado o uso da NF-e', 'criado_em': datetime.datetime(2026, 7, 25, 5, 30, 21, 709456)}
+2026-07-25 02:30:21,724 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2026-07-26 00:37:22,636 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2026-07-26 00:37:22,637 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:37:22,640 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2026-07-26 00:37:22,640 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:37:22,642 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2026-07-26 00:37:22,642 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:37:22,643 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-26 00:37:22,646 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2026-07-26 00:37:22,646 - sqlalchemy.engine.Engine - INFO - [generated in 0.00026s] {'table_name': 'notas_fiscais', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2026-07-26 00:37:22,649 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-26 00:37:24,836 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-26 00:37:26,410 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-26 00:37:26,411 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-26 00:37:27,213 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-26 00:37:27,214 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-26 00:37:30,780 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-26 00:37:30,782 - sqlalchemy.engine.Engine - INFO - INSERT INTO notas_fiscais (numero, serie, chave, data_emissao, tipo, cnpj_emitente, razao_social_emitente, cnpj_destinatario, razao_social_destinatario, valor_produtos, valor_desconto, valor_frete, valor_seguro, valor_icms, valor_ipi, valor_pis, valor_cofins, valor_total, protocolo, status, descricao_status, criado_em) VALUES (%(numero)s, %(serie)s, %(chave)s, %(data_emissao)s, %(tipo)s, %(cnpj_emitente)s, %(razao_social_emitente)s, %(cnpj_destinatario)s, %(razao_social_destinatario)s, %(valor_produtos)s, %(valor_desconto)s, %(valor_frete)s, %(valor_seguro)s, %(valor_icms)s, %(valor_ipi)s, %(valor_pis)s, %(valor_cofins)s, %(valor_total)s, %(protocolo)s, %(status)s, %(descricao_status)s, %(criado_em)s) RETURNING notas_fiscais.id
+2026-07-26 00:37:30,782 - sqlalchemy.engine.Engine - INFO - [generated in 0.00031s] {'numero': '1234', 'serie': '1', 'chave': '35260712345678000199550010000012341000012345', 'data_emissao': '2026-07-20T14:35:20-03:00', 'tipo': 1, 'cnpj_emitente': '12345678000199', 'razao_social_emitente': 'Fornecedor Exemplo LTDA', 'cnpj_destinatario': '98765432000111', 'razao_social_destinatario': 'Hamburgueria ChatGPT LTDA', 'valor_produtos': None, 'valor_desconto': None, 'valor_frete': None, 'valor_seguro': None, 'valor_icms': None, 'valor_ipi': None, 'valor_pis': None, 'valor_cofins': None, 'valor_total': '895.00', 'protocolo': '135260000123456', 'status': 100, 'descricao_status': 'Autorizado o uso da NF-e', 'criado_em': datetime.datetime(2026, 7, 26, 3, 37, 30, 782664)}
+2026-07-26 00:37:30,789 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2026-07-26 00:39:29,854 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2026-07-26 00:39:29,855 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:39:29,856 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2026-07-26 00:39:29,856 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:39:29,858 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2026-07-26 00:39:29,858 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:39:29,859 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-26 00:39:29,862 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2026-07-26 00:39:29,863 - sqlalchemy.engine.Engine - INFO - [generated in 0.00023s] {'table_name': 'notas_fiscais', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2026-07-26 00:39:29,867 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-26 00:39:31,149 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-26 00:40:01,774 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2026-07-26 00:40:01,774 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:40:01,776 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2026-07-26 00:40:01,776 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:40:01,777 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2026-07-26 00:40:01,777 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:40:01,778 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-26 00:40:01,780 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2026-07-26 00:40:01,780 - sqlalchemy.engine.Engine - INFO - [generated in 0.00021s] {'table_name': 'notas_fiscais', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2026-07-26 00:40:01,782 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-26 00:40:02,934 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-26 00:42:48,171 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2026-07-26 00:42:48,171 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:42:48,173 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2026-07-26 00:42:48,173 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:42:48,174 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2026-07-26 00:42:48,174 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:42:48,175 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-26 00:42:48,177 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2026-07-26 00:42:48,177 - sqlalchemy.engine.Engine - INFO - [generated in 0.00018s] {'table_name': 'notas_fiscais', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2026-07-26 00:42:48,180 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-26 00:42:49,726 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-26 00:42:49,728 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-26 00:42:49,731 - sqlalchemy.engine.Engine - INFO - SELECT notas_fiscais.id, notas_fiscais.numero, notas_fiscais.serie, notas_fiscais.chave, notas_fiscais.data_emissao, notas_fiscais.tipo, notas_fiscais.cnpj_emitente, notas_fiscais.razao_social_emitente, notas_fiscais.cnpj_destinatario, notas_fiscais.razao_social_destinatario, notas_fiscais.valor_produtos, notas_fiscais.valor_desconto, notas_fiscais.valor_frete, notas_fiscais.valor_seguro, notas_fiscais.valor_icms, notas_fiscais.valor_ipi, notas_fiscais.valor_pis, notas_fiscais.valor_cofins, notas_fiscais.valor_total, notas_fiscais.protocolo, notas_fiscais.status, notas_fiscais.descricao_status, notas_fiscais.criado_em 
+FROM notas_fiscais 
+WHERE notas_fiscais.chave = %(chave_1)s
+2026-07-26 00:42:49,731 - sqlalchemy.engine.Engine - INFO - [generated in 0.00024s] {'chave_1': '35260712345678000199550010000012341000012345'}
+2026-07-26 00:42:50,827 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-26 00:42:50,828 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-26 00:42:50,828 - gmail_extractor - WARNING - Arquivo Ignorado devido aos erros anteriores. {'nfe': {'numero': '123456', 'chave_nfe': '35260712345678000199550010000012341000012345', 'data_emissao': '2026-07-20', 'emitente': {'nome': 'Fornecedor Exemplo LTDA', 'cnpj': '12.345.678/0001-99', 'ie': '123456789', 'endereco': {'cidade': 'São Paulo', 'uf': 'SP'}}, 'destinatario': {'nome': 'Hamburgueria ChatGPT LTDA', 'cnpj': '98.765.432/0001-11', 'endereco': {'cidade': 'Campinas', 'uf': 'SP'}}, 'itens': {'item': [{'codigo': '001', 'descricao': 'Pão Brioche', 'quantidade': '50', 'valor_unitario': '2.50', 'total': '125.00'}, {'codigo': '002', 'descricao': 'Hambúrguer Bovino 180g', 'quantidade': '50', 'valor_unitario': '12.00', 'total': '600.00'}, {'codigo': '003', 'descricao': 'Queijo Cheddar', 'quantidade': '20', 'valor_unitario': '8.50', 'total': '170.00'}]}, 'total': '895.00'}}
+2026-07-26 00:42:51,829 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-26 00:42:51,830 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-26 00:42:51,830 - gmail_extractor - WARNING - Arquivo Ignorado devido aos erros anteriores. {'nfe': {'numero': '123456', 'data_emissao': '2026-07-14', 'emitente': {'nome': 'Fornecedor Exemplo LTDA', 'cnpj': '12.345.678/0001-99'}, 'destinatario': {'nome': 'Empresa Cliente LTDA', 'cnpj': '98.765.432/0001-11'}, 'itens': {'item': [{'descricao': 'Produto A', 'quantidade': '10', 'valor_unitario': '25.50'}, {'descricao': 'Produto B', 'quantidade': '5', 'valor_unitario': '100.00'}]}, 'total': '755.00'}}
+2026-07-26 00:42:54,888 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-26 00:46:11,717 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2026-07-26 00:46:11,718 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:46:11,719 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2026-07-26 00:46:11,719 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:46:11,720 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2026-07-26 00:46:11,720 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:46:11,721 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-26 00:46:11,724 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2026-07-26 00:46:11,724 - sqlalchemy.engine.Engine - INFO - [generated in 0.00022s] {'table_name': 'notas_fiscais', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2026-07-26 00:46:11,726 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-26 00:46:12,948 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-26 00:46:12,949 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-26 00:46:12,952 - sqlalchemy.engine.Engine - INFO - SELECT notas_fiscais.id, notas_fiscais.numero, notas_fiscais.serie, notas_fiscais.chave, notas_fiscais.data_emissao, notas_fiscais.tipo, notas_fiscais.cnpj_emitente, notas_fiscais.razao_social_emitente, notas_fiscais.cnpj_destinatario, notas_fiscais.razao_social_destinatario, notas_fiscais.valor_produtos, notas_fiscais.valor_desconto, notas_fiscais.valor_frete, notas_fiscais.valor_seguro, notas_fiscais.valor_icms, notas_fiscais.valor_ipi, notas_fiscais.valor_pis, notas_fiscais.valor_cofins, notas_fiscais.valor_total, notas_fiscais.protocolo, notas_fiscais.status, notas_fiscais.descricao_status, notas_fiscais.criado_em 
+FROM notas_fiscais 
+WHERE notas_fiscais.chave = %(chave_1)s
+2026-07-26 00:46:12,952 - sqlalchemy.engine.Engine - INFO - [generated in 0.00019s] {'chave_1': '35260712345678000199550010000012341000012345'}
+2026-07-26 00:46:14,011 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-26 00:46:14,012 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-26 00:46:14,012 - gmail_extractor - WARNING - Arquivo Ignorado devido ao erros anteriores. {'nfe': {'numero': '123456', 'chave_nfe': '35260712345678000199550010000012341000012345', 'data_emissao': '2026-07-20', 'emitente': {'nome': 'Fornecedor Exemplo LTDA', 'cnpj': '12.345.678/0001-99', 'ie': '123456789', 'endereco': {'cidade': 'São Paulo', 'uf': 'SP'}}, 'destinatario': {'nome': 'Hamburgueria ChatGPT LTDA', 'cnpj': '98.765.432/0001-11', 'endereco': {'cidade': 'Campinas', 'uf': 'SP'}}, 'itens': {'item': [{'codigo': '001', 'descricao': 'Pão Brioche', 'quantidade': '50', 'valor_unitario': '2.50', 'total': '125.00'}, {'codigo': '002', 'descricao': 'Hambúrguer Bovino 180g', 'quantidade': '50', 'valor_unitario': '12.00', 'total': '600.00'}, {'codigo': '003', 'descricao': 'Queijo Cheddar', 'quantidade': '20', 'valor_unitario': '8.50', 'total': '170.00'}]}, 'total': '895.00'}}
+2026-07-26 00:46:14,841 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-26 00:46:14,842 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-26 00:46:14,842 - gmail_extractor - WARNING - Arquivo Ignorado devido ao erros anteriores. {'nfe': {'numero': '123456', 'data_emissao': '2026-07-14', 'emitente': {'nome': 'Fornecedor Exemplo LTDA', 'cnpj': '12.345.678/0001-99'}, 'destinatario': {'nome': 'Empresa Cliente LTDA', 'cnpj': '98.765.432/0001-11'}, 'itens': {'item': [{'descricao': 'Produto A', 'quantidade': '10', 'valor_unitario': '25.50'}, {'descricao': 'Produto B', 'quantidade': '5', 'valor_unitario': '100.00'}]}, 'total': '755.00'}}
+2026-07-26 00:46:17,306 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-26 00:48:53,498 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2026-07-26 00:48:53,498 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:48:53,500 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2026-07-26 00:48:53,500 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:48:53,501 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2026-07-26 00:48:53,501 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-26 00:48:53,501 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-26 00:48:53,504 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2026-07-26 00:48:53,504 - sqlalchemy.engine.Engine - INFO - [generated in 0.00018s] {'table_name': 'notas_fiscais', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2026-07-26 00:48:53,506 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-26 00:48:55,122 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-26 00:48:55,124 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-26 00:48:55,129 - sqlalchemy.engine.Engine - INFO - SELECT notas_fiscais.id, notas_fiscais.numero, notas_fiscais.serie, notas_fiscais.chave, notas_fiscais.data_emissao, notas_fiscais.tipo, notas_fiscais.cnpj_emitente, notas_fiscais.razao_social_emitente, notas_fiscais.cnpj_destinatario, notas_fiscais.razao_social_destinatario, notas_fiscais.valor_produtos, notas_fiscais.valor_desconto, notas_fiscais.valor_frete, notas_fiscais.valor_seguro, notas_fiscais.valor_icms, notas_fiscais.valor_ipi, notas_fiscais.valor_pis, notas_fiscais.valor_cofins, notas_fiscais.valor_total, notas_fiscais.protocolo, notas_fiscais.status, notas_fiscais.descricao_status, notas_fiscais.criado_em 
+FROM notas_fiscais 
+WHERE notas_fiscais.chave = %(chave_1)s
+2026-07-26 00:48:55,129 - sqlalchemy.engine.Engine - INFO - [generated in 0.00036s] {'chave_1': '35260712345678000199550010000012341000012345'}
+2026-07-26 00:48:55,133 - gmail_extractor - INFO - Nota já cadastrada no Sistema, Ignorando.
+2026-07-26 00:48:56,217 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-26 00:48:56,219 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-26 00:48:56,219 - gmail_extractor - WARNING - Arquivo Ignorado devido ao erros anteriores. {'nfe': {'numero': '123456', 'chave_nfe': '35260712345678000199550010000012341000012345', 'data_emissao': '2026-07-20', 'emitente': {'nome': 'Fornecedor Exemplo LTDA', 'cnpj': '12.345.678/0001-99', 'ie': '123456789', 'endereco': {'cidade': 'São Paulo', 'uf': 'SP'}}, 'destinatario': {'nome': 'Hamburgueria ChatGPT LTDA', 'cnpj': '98.765.432/0001-11', 'endereco': {'cidade': 'Campinas', 'uf': 'SP'}}, 'itens': {'item': [{'codigo': '001', 'descricao': 'Pão Brioche', 'quantidade': '50', 'valor_unitario': '2.50', 'total': '125.00'}, {'codigo': '002', 'descricao': 'Hambúrguer Bovino 180g', 'quantidade': '50', 'valor_unitario': '12.00', 'total': '600.00'}, {'codigo': '003', 'descricao': 'Queijo Cheddar', 'quantidade': '20', 'valor_unitario': '8.50', 'total': '170.00'}]}, 'total': '895.00'}}
+2026-07-26 00:48:57,030 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-26 00:48:57,031 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-26 00:48:57,031 - gmail_extractor - WARNING - Arquivo Ignorado devido ao erros anteriores. {'nfe': {'numero': '123456', 'data_emissao': '2026-07-14', 'emitente': {'nome': 'Fornecedor Exemplo LTDA', 'cnpj': '12.345.678/0001-99'}, 'destinatario': {'nome': 'Empresa Cliente LTDA', 'cnpj': '98.765.432/0001-11'}, 'itens': {'item': [{'descricao': 'Produto A', 'quantidade': '10', 'valor_unitario': '25.50'}, {'descricao': 'Produto B', 'quantidade': '5', 'valor_unitario': '100.00'}]}, 'total': '755.00'}}
+2026-07-26 00:48:59,599 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-27 02:21:45,891 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2026-07-27 02:21:45,892 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-27 02:21:45,895 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2026-07-27 02:21:45,895 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-27 02:21:45,898 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2026-07-27 02:21:45,898 - sqlalchemy.engine.Engine - INFO - [raw sql] {}
+2026-07-27 02:21:45,901 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-27 02:21:45,906 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2026-07-27 02:21:45,907 - sqlalchemy.engine.Engine - INFO - [generated in 0.00034s] {'table_name': 'notas_fiscais', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2026-07-27 02:21:45,911 - sqlalchemy.engine.Engine - INFO - 
+CREATE TABLE notas_fiscais (
+	id SERIAL NOT NULL, 
+	numero VARCHAR(50) NOT NULL, 
+	serie VARCHAR(10) NOT NULL, 
+	chave VARCHAR(44) NOT NULL, 
+	data_emissao VARCHAR(30) NOT NULL, 
+	tipo INTEGER NOT NULL, 
+	cnpj_emitente VARCHAR(14) NOT NULL, 
+	razao_social_emitente VARCHAR(200) NOT NULL, 
+	cnpj_destinatario VARCHAR(14) NOT NULL, 
+	razao_social_destinatario VARCHAR(200) NOT NULL, 
+	valor_produtos NUMERIC(10, 2), 
+	valor_desconto NUMERIC(10, 2), 
+	valor_frete NUMERIC(10, 2), 
+	valor_seguro NUMERIC(10, 2), 
+	valor_icms NUMERIC(10, 2), 
+	valor_ipi NUMERIC(10, 2), 
+	valor_pis NUMERIC(10, 2), 
+	valor_cofins NUMERIC(10, 2), 
+	valor_total NUMERIC(10, 2) NOT NULL, 
+	protocolo VARCHAR(50) NOT NULL, 
+	status INTEGER NOT NULL, 
+	descricao_status VARCHAR(200) NOT NULL, 
+	criado_em TIMESTAMP WITHOUT TIME ZONE NOT NULL, 
+	PRIMARY KEY (id), 
+	UNIQUE (chave)
+)
+
+
+2026-07-27 02:21:45,911 - sqlalchemy.engine.Engine - INFO - [no key 0.00030s] {}
+2026-07-27 02:21:45,919 - sqlalchemy.engine.Engine - INFO - COMMIT
+2026-07-27 02:21:48,348 - gmail_extractor - INFO - Extracting arquivo_test.xml...
+2026-07-27 02:21:48,352 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2026-07-27 02:21:48,357 - sqlalchemy.engine.Engine - INFO - SELECT notas_fiscais.id, notas_fiscais.numero, notas_fiscais.serie, notas_fiscais.chave, notas_fiscais.data_emissao, notas_fiscais.tipo, notas_fiscais.cnpj_emitente, notas_fiscais.razao_social_emitente, notas_fiscais.cnpj_destinatario, notas_fiscais.razao_social_destinatario, notas_fiscais.valor_produtos, notas_fiscais.valor_desconto, notas_fiscais.valor_frete, notas_fiscais.valor_seguro, notas_fiscais.valor_icms, notas_fiscais.valor_ipi, notas_fiscais.valor_pis, notas_fiscais.valor_cofins, notas_fiscais.valor_total, notas_fiscais.protocolo, notas_fiscais.status, notas_fiscais.descricao_status, notas_fiscais.criado_em 
+FROM notas_fiscais 
+WHERE notas_fiscais.chave = %(chave_1)s
+2026-07-27 02:21:48,358 - sqlalchemy.engine.Engine - INFO - [generated in 0.00043s] {'chave_1': '35260712345678000199550010000012341000012345'}
+2026-07-27 02:21:49,690 - gmail_extractor - INFO - Extracting teste.xml...
+2026-07-27 02:21:49,691 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-27 02:21:49,691 - gmail_extractor - WARNING - Arquivo Ignorado devido ao erros anteriores. {'nfe': {'numero': '123456', 'chave_nfe': '35260712345678000199550010000012341000012345', 'data_emissao': '2026-07-20', 'emitente': {'nome': 'Fornecedor Exemplo LTDA', 'cnpj': '12.345.678/0001-99', 'ie': '123456789', 'endereco': {'cidade': 'São Paulo', 'uf': 'SP'}}, 'destinatario': {'nome': 'Hamburgueria ChatGPT LTDA', 'cnpj': '98.765.432/0001-11', 'endereco': {'cidade': 'Campinas', 'uf': 'SP'}}, 'itens': {'item': [{'codigo': '001', 'descricao': 'Pão Brioche', 'quantidade': '50', 'valor_unitario': '2.50', 'total': '125.00'}, {'codigo': '002', 'descricao': 'Hambúrguer Bovino 180g', 'quantidade': '50', 'valor_unitario': '12.00', 'total': '600.00'}, {'codigo': '003', 'descricao': 'Queijo Cheddar', 'quantidade': '20', 'valor_unitario': '8.50', 'total': '170.00'}]}, 'total': '895.00'}}
+2026-07-27 02:21:50,604 - gmail_extractor - INFO - Extracting xml_teste_nfe.xml...
+2026-07-27 02:21:50,604 - validador_xml - ERROR - Campo obrigatório ausente: nfeProc
+2026-07-27 02:21:50,604 - gmail_extractor - WARNING - Arquivo Ignorado devido ao erros anteriores. {'nfe': {'numero': '123456', 'data_emissao': '2026-07-14', 'emitente': {'nome': 'Fornecedor Exemplo LTDA', 'cnpj': '12.345.678/0001-99'}, 'destinatario': {'nome': 'Empresa Cliente LTDA', 'cnpj': '98.765.432/0001-11'}, 'itens': {'item': [{'descricao': 'Produto A', 'quantidade': '10', 'valor_unitario': '25.50'}, {'descricao': 'Produto B', 'quantidade': '5', 'valor_unitario': '100.00'}]}, 'total': '755.00'}}
+2026-07-27 02:21:52,940 - sqlalchemy.engine.Engine - INFO - INSERT INTO notas_fiscais (numero, serie, chave, data_emissao, tipo, cnpj_emitente, razao_social_emitente, cnpj_destinatario, razao_social_destinatario, valor_produtos, valor_desconto, valor_frete, valor_seguro, valor_icms, valor_ipi, valor_pis, valor_cofins, valor_total, protocolo, status, descricao_status, criado_em) VALUES (%(numero)s, %(serie)s, %(chave)s, %(data_emissao)s, %(tipo)s, %(cnpj_emitente)s, %(razao_social_emitente)s, %(cnpj_destinatario)s, %(razao_social_destinatario)s, %(valor_produtos)s, %(valor_desconto)s, %(valor_frete)s, %(valor_seguro)s, %(valor_icms)s, %(valor_ipi)s, %(valor_pis)s, %(valor_cofins)s, %(valor_total)s, %(protocolo)s, %(status)s, %(descricao_status)s, %(criado_em)s) RETURNING notas_fiscais.id
+2026-07-27 02:21:52,940 - sqlalchemy.engine.Engine - INFO - [generated in 0.00029s] {'numero': '1234', 'serie': '1', 'chave': '35260712345678000199550010000012341000012345', 'data_emissao': '2026-07-20T14:35:20-03:00', 'tipo': 1, 'cnpj_emitente': '12345678000199', 'razao_social_emitente': 'Fornecedor Exemplo LTDA', 'cnpj_destinatario': '98765432000111', 'razao_social_destinatario': 'Hamburgueria ChatGPT LTDA', 'valor_produtos': None, 'valor_desconto': None, 'valor_frete': None, 'valor_seguro': None, 'valor_icms': None, 'valor_ipi': None, 'valor_pis': None, 'valor_cofins': None, 'valor_total': '895.00', 'protocolo': '135260000123456', 'status': 100, 'descricao_status': 'Autorizado o uso da NF-e', 'criado_em': datetime.datetime(2026, 7, 27, 5, 21, 52, 940566)}
+2026-07-27 02:21:52,943 - sqlalchemy.engine.Engine - INFO - COMMIT

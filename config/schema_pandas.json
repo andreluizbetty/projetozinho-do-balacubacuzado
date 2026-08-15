@@ -1,0 +1,36 @@
+{
+    "CHAVE_NFE": {
+        "type": "string",
+        "nullable": false,
+        "length": 44,
+        "unique": true
+    },
+
+    "CNPJ": {
+        "type": "string",
+        "nullable": false,
+        "length": 14
+    },
+
+    "QUANTIDADE": {
+        "type": "float",
+        "nullable": false,
+        "min": 0
+    },
+
+    "VALOR_UNITARIO": {
+        "type": "float",
+        "nullable": false,
+        "min": 0
+    },
+
+    "VALOR_TOTAL": {
+        "type": "float",
+        "nullable": false,
+    },
+
+    "DATA_EMISSAO": {
+        "type": "datetime",
+        "nullable": false
+    }
+}

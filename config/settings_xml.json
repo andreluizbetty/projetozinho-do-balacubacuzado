@@ -1,0 +1,87 @@
+{
+    "nfeProc": {
+        "NFe": {
+            "infNFe": {
+                "ide": {
+                    "cUF": "str",
+                    "cNF": "str",
+                    "natOp": "str",
+                    "mod": "str",
+                    "serie": "str",
+                    "nNF": "str",
+                    "dhEmi": "str",
+                    "tpNF": "str"
+                },
+
+                "emit": {
+                    "CNPJ": "str",
+                    "xNome": "str",
+                    "xFant": "str",
+
+                    "enderEmit": {
+                        "xLgr": "str",
+                        "nro": "str",
+                        "xBairro": "str",
+                        "cMun": "str",
+                        "xMun": "str",
+                        "UF": "str",
+                        "CEP": "str"
+                    },
+
+                    "IE": "str"
+                },
+
+                "dest": {
+                    "CNPJ": "str",
+                    "xNome": "str",
+
+                    "enderDest": {
+                        "xLgr": "str",
+                        "nro": "str",
+                        "xBairro": "str",
+                        "xMun": "str",
+                        "UF": "str",
+                        "CEP": "str"
+                    }
+                },
+
+                "det": [
+                    {
+                        "prod": {
+                            "cProd": "str",
+                            "xProd": "str",
+                            "CFOP": "str",
+                            "uCom": "str",
+                            "qCom": "float",
+                            "vUnCom": "float",
+                            "vProd": "float"
+                        }
+                    }
+                ],
+
+                "total": {
+                    "ICMSTot": {
+                        "vProd": "float",
+                        "vNF": "float"
+                    }
+                },
+
+                "transp": {
+                    "modFrete": "int"
+                }
+            }
+        },
+
+        "protNFe": {
+            "infProt": {
+                "tpAmb": "str",
+                "verAplic": "str",
+                "chNFe": "str",
+                "dhRecbto": "str",
+                "nProt": "str",
+                "cStat": "int",
+                "xMotivo": "str"
+            }
+        }
+    }
+}
